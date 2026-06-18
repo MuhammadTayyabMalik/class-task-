@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    margin-top: 170px;
+    color: black;
+    font-style: italic;
+    font-weight: bolder;
+    margin-left: 10px;
+    font-size: 40px;
+}
+.anchortag{
+    font-style: italic;
+    font-size: 40px;
+    margin-left: 350px;
+    color: red;
+}
+h2{
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bold;
+}
